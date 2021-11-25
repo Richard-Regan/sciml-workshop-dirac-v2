@@ -35,6 +35,6 @@ Keith Butler, Kuangdai Leng, Sam Jackson, Jaehoon Cha, Susmita Basak, Jeyan Thiy
 
 *Scientific Machine Learning (SciML) Group, Scientific Computing Department, Science and Technology Facilities Council* 
 
-Richard Regan, Mark Wilkinson, Clare Jenner
+Richard Regan, Clare Jenner, Mark Wilkinson
 
 *Distributed Research utilising Advanced Computing Community*
